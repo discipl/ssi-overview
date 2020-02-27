@@ -19,4 +19,4 @@ These lists are work in progress, feel free to submit a Pull Request with additi
 
 |Framework|Documentation|Online channel|Point of contact|
 |---|---|---|---|
-|[Discipl](https://discipl.org/)|[Main repo](https://github.com/discipl/main)|[Slack (see main repo for invite link)](https://discipl.slack.com)|[Bas Kaptijn](https://github.com/bkaptijn) [Pim Otte](https://github.com/pimotte)|
+|[Discipl](https://discipl.org/)|[Main repo](https://github.com/discipl/main)|[Slack (see main repo for invite link)](https://discipl.slack.com)|[Bas Kaptijn](https://github.com/bkaptijn) or [Pim Otte](https://github.com/pimotte)|
