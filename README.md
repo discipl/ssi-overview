@@ -1,5 +1,9 @@
 # SSI Overview
 
+![Digicampus](https://www.dedigicampus.nl/img/logo-digicampus.svg)
+
+![Dutch Blockchain Coalition](https://dutchblockchaincoalition.org/assets/images/Logo-DBC.png)
+
 This repo provides a short overview of SSI-related technologies, frameworks along with links to information.
 In addition, points of contact that are present for Odyssey 2020 are listed.
 
