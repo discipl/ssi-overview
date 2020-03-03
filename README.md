@@ -20,5 +20,3 @@ These lists are work in progress, feel free to submit a Pull Request with additi
 |Framework|Description|Documentation|Online channel|Point of contact|
 |---|---|---|---|---|
 |[Discipl](https://discipl.org/)|Build solutions on top of SSI|[Main repo](https://github.com/discipl/main)|[Slack (see main repo for invite link)](https://discipl.slack.com)|[Bas Kaptijn](https://github.com/bkaptijn) or [Pim Otte](https://github.com/pimotte)|
-
-## [Standards](./standards.md)
