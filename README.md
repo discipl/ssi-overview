@@ -20,6 +20,7 @@ These lists are work in progress, feel free to submit a Pull Request with additi
 |Framework|Description|Documentation|Online channel|Point of contact|
 |---|---|---|---|---|
 |[Discipl](https://discipl.org/)|Build solutions on top of SSI|[Main repo](https://github.com/discipl/main)|[Slack (see main repo for invite link)](https://discipl.slack.com)|[Bas Kaptijn](https://github.com/bkaptijn) or [Pim Otte](https://github.com/pimotte)|
+|[Universal Ledger Agent](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/universal-ledger-agent.md)|Interoperability between SSI solutions|[Main repo](https://github.com/rabobank-blockchain), also API available|[Slack invite link](https://join.slack.com/t/rabobankssi/shared_invite/zt-d58zvo4j-MjXbGJ1UrcOhcGHREQAbsA)|[Marnix van den Bent (technical)](https://www.linkedin.com/in/marnix-van-den-bent/) or [David Lamers (use cases)](https://www.linkedin.com/in/lamersdavid/)|
 
 ## Other resources
 - [Data sets about companies from Chamber of Commerce](https://www.kvk.nl/advies-en-informatie/innovatie/kvk-innovatielab/)
